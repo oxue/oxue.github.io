@@ -2,7 +2,9 @@
 
 I'm an engineer and researcher interested in bridging big tech, web3 and quant finance together. 
 
-Recently worked on quantitative risk engineering in decentralized finance after quantitative research position in automated options trading. Before that I was working on operations research/engineering at a taxi company. You can find out more about my work history from my [resume](https://github.com/oxue/oxue.github.io/raw/main/public/Resume%20Oliver%20Xu.pdf).
+I did my undergrad at Waterloo. I took a double major in Combinatorics/Optimzation and Computer Science. I've got a minor in psychology.
+
+Recently worked on risk engineering in decentralized finance after quantitative research position in automated options trading. Before that I was working on operations research/engineering at a taxi company. You can find out more about my work history from my [resume](https://github.com/oxue/oxue.github.io/raw/main/public/Resume%20Oliver%20Xu.pdf).
 
 Also currently advisor on algorithmic trading strategy for [a web3 startup](https://elixir.finance/), along with some of the OGs in the quant research space.
 
@@ -24,3 +26,12 @@ I was born in Beijing. Throughout my life I've been based in various cities. Her
 - Age 18 - Waterloo
 - Age 23 - San Francisco
 - Age 25 - New York
+
+My book recommendations:
+
+- Skin in the Game (Nassim Taleb)
+- Antifragile (Nassim Taleb)
+- Bhagavad Gita (Hindu Text)
+- Options, Futures and Other Derivatives (John Hull)
+- The Dao of Capital (Mark Spitznagel)
+
