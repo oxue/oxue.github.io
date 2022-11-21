@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Oliver Xu
 description: Engineer, Quant, Artist.
+google_analytics: G-1X0635SRRZ
 site:
   logo: https://github.com/oxue/oxue.github.io/raw/main/public/me.jpeg
   github:
