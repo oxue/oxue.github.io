@@ -1,5 +1,7 @@
+---
 layout: page
-title: "PAGE-TITLE"
-permalink: /asd
+title: "Research Papers"
+permalink: /research_papers
+---
 
 asdasdasd
