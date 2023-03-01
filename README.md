@@ -6,7 +6,7 @@ I did my undergrad at Waterloo. I took a double major in Combinatorics/Optimzati
 
 Recently worked on risk engineering in decentralized finance after quantitative research position in automated options trading. Before that I was working on operations research/engineering at a taxi company. You can find out more about my work history from my [resume](https://github.com/oxue/oxue.github.io/raw/main/public/Resume%20Oliver%20Xu.pdf).
 
-Also currently advisor on algorithmic trading strategy for [a web3 startup](https://elixir.finance/), along with some of the OGs in the quant research space.
+Also currently advisor on algorithmic trading strategy for [a web3 startup](https://elixir.finance/).
 
 **art**
 
