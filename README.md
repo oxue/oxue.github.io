@@ -8,7 +8,7 @@ Recently worked on risk engineering in decentralized finance after quantitative 
 
 Also currently advisor on algorithmic trading strategy for [a web3 startup](https://elixir.finance/).
 
-Recently I started writing about quant finance on [substack](https://quante.substack.com/p/the-avellaneda-stoikov-algorithm).
+Recently I started writing about quant finance on [substack](https://quante.substack.com/).
 
 - [The Avellaneda Stoikov Algorithm: Criticisms and Potential Solutions](https://quante.substack.com/p/the-avellaneda-stoikov-algorithm)
 - [Analyzing Binance Options Prices: Barebones Volatility Fitter in Python](https://quante.substack.com/p/analyzing-binance-options-prices)
