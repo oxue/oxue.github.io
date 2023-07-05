@@ -15,7 +15,7 @@ Recently I started writing about quant finance on [substack](https://quante.subs
 
 **art**
 
-In my spare time I am an [illustrator](https://www.instagram.com/oppylines/) that takes my work very seriously. Most recently created the NFT artwork for [jump crypto](https://jumpcrypto.com/)'s buffalo NFTs. 
+In my spare time I am an [illustrator](https://www.instagram.com/oppylines/). Most recently created the NFT artwork for [jump crypto](https://jumpcrypto.com/)'s buffalo NFTs. 
 
 **misc**
 
