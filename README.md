@@ -19,8 +19,6 @@ In my spare time I am an [illustrator](https://www.instagram.com/oppylines/) tha
 
 **misc**
 
-My collection of research papers [here](https://oxue.github.io/research_papers).
-
 Python is my favorite programming language.
 
 I was born in Beijing. Throughout my life I've been based in various cities. Here is a timeline of my schmovements:
@@ -41,4 +39,6 @@ My book recommendations:
 - Bhagavad Gita (Hindu Text)
 - Options, Futures and Other Derivatives (John Hull)
 - The Dao of Capital (Mark Spitznagel)
+
+[](My collection of research papers [here](https://oxue.github.io/research_papers).)
 
